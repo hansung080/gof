@@ -1,5 +1,8 @@
-# GoF (Rust) 
-Design Patterns written in Rust
+# GoF 
+Implementations of Design Patterns in multiple programming languages
+
+## Programming Languages
+- Rust
 
 ## 23 GoF Patterns
 ### Creational Patterns

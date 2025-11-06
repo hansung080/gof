@@ -2,34 +2,40 @@
 Implementations of Design Patterns in multiple programming languages
 
 ## Programming Languages
-- Rust
+- Rust (rs)
 
 ## 23 GoF Patterns
 ### Creational Patterns
-- [ ] Abstract Factory
-- [ ] Builder
-- [ ] Factory Method
-- [ ] Prototype
-- [ ] Singleton
+| Pattern          | Language |
+|------------------|----------|
+| Abstract Factory | -        |
+| Builder          | -        |
+| Factory Method   | -        |
+| Prototype        | -        |
+| Singleton        | -        |
 
 ### Structural Patterns
-- [ ] Adapter
-- [ ] Bridge
-- [x] Composite
-- [ ] Decorator
-- [ ] Facade
-- [ ] Flyweight
-- [ ] Proxy
+| Pattern   | Language |
+|-----------|----------|
+| Adapter   | -        |
+| Bridge    | -        |
+| Composite | rs       |
+| Decorator | -        |
+| Facade    | -        |
+| Flyweight | -        |
+| Proxy     | -        |
 
 ### Behavioral Patterns
-- [ ] Chain of Responsibility
-- [ ] Command
-- [ ] Interpreter
-- [ ] Iterator
-- [ ] Mediator
-- [ ] Memento
-- [ ] Observer
-- [ ] State
-- [ ] Strategy
-- [ ] Template Method
-- [x] Visitor
+| Pattern                 | Language |
+|-------------------------|----------|
+| Chain of Responsibility | -        |
+| Command                 | -        |
+| Interpreter             | -        |
+| Iterator                | -        |
+| Mediator                | -        |
+| Memento                 | -        |
+| Observer                | -        |
+| State                   | -        |
+| Strategy                | -        |
+| Template Method         | -        |
+| Visitor                 | rs       |

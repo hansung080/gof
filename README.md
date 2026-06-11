@@ -1,11 +1,15 @@
 # GoF 
+
 Implementations of Design Patterns in multiple programming languages
 
 ## Programming Languages
+
 - Rust (rs)
 
 ## 23 GoF Patterns
+
 ### Creational Patterns
+
 | Pattern          | Language |
 |------------------|----------|
 | Abstract Factory | -        |
@@ -15,6 +19,7 @@ Implementations of Design Patterns in multiple programming languages
 | Singleton        | -        |
 
 ### Structural Patterns
+
 | Pattern   | Language |
 |-----------|----------|
 | Adapter   | -        |
@@ -26,6 +31,7 @@ Implementations of Design Patterns in multiple programming languages
 | Proxy     | -        |
 
 ### Behavioral Patterns
+
 | Pattern                 | Language |
 |-------------------------|----------|
 | Chain of Responsibility | -        |
